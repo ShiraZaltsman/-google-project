@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shira/Desktop/google-project-ShiraZaltsman/cpp_part/AutoCompleteData.cpp
+map
+-
+fstream
+-
+iostream
+-
+cstring
+-
+AutoCompleteData.h
+/home/shira/Desktop/google-project-ShiraZaltsman/cpp_part/AutoCompleteData.h
+
+/home/shira/Desktop/google-project-ShiraZaltsman/cpp_part/AutoCompleteData.h
+string
+-
+vector
+-
+
+/home/shira/Desktop/google-project-ShiraZaltsman/cpp_part/main.cpp
+iostream
+-
+map
+-
+vector
+-
+fstream
+-
+cstring
+-
+AutoCompleteData.h
+/home/shira/Desktop/google-project-ShiraZaltsman/cpp_part/AutoCompleteData.h
+

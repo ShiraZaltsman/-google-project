@@ -52,7 +52,8 @@ for item in anagram_3_dict:
 print("done")
 
 with open("anagram_3.json","w") as f:
-    json.dump(batter_3_dict, f)
+    #json.dump(batter_3_dict, f)
+    f.write(batter_3_dict)
 
 
 

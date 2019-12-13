@@ -1,0 +1,3 @@
+/home/shira/Desktop/google-project-ShiraZaltsman/cpp_part/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shira/Desktop/google-project-ShiraZaltsman/cpp_part/cmake-build-debug/CMakeFiles/cpp_part.dir
+/home/shira/Desktop/google-project-ShiraZaltsman/cpp_part/cmake-build-debug/CMakeFiles/edit_cache.dir
